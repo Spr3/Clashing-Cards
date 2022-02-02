@@ -1,4 +1,11 @@
 # Clashing-Cards
+Clashing Cards is a 2 Player Card Game were you have 3 creatures that have 3 points each you can try and to attack your opponent. Each Player Starts with 100 Health and the first one to 0 Health looses. With your Cards you can do 3 things Move, Gain Points on Creature and Play Extra Cards. If you play a 4 You acn choose one of your creature to move 4 spaces in any direction or The Creature can gain 4 points. An Extra Card can help you find cards that you want from your deck or make the creature stronger. When a creature Attacks an oppents creature the creature with the least amount of Health dies and resets back to 3 points and back to the original position in 2 turns. The Winning card looses the Ammount of points the loosing moster has.
+
+Monster1: 12Points Vrs Monster2: 14Points
+
+Monster2 has 2Points after Battle and Monster1 is dead.
+
+
 As Of Right now The Player Gets Random cards in there hand. The cards are 1-9. There are nine ones, eight twos, seven thress ect. There are 1 Reset Deck, 3 Switch two and 2 Search.
 The Reset Deck Puts everthing from your discard pile into your deck and changes your hand into new card. Switch two has it were you pick two cards from your hand and then picks
 two cards from your deck and switchs the cards. The Search card is a card that lets you pick a card from your deck and put it into your hand.
